@@ -5,7 +5,7 @@ public class Workout
 {
 	public static void main(String[] args)
 	{
-		Exercise f1 = new Exercise();
+		ExerciseLoggingApp f1 = new ExerciseLoggingApp();
 		f1.workout();	
 		f1.printResults();
 	}

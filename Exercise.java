@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class Exercise
+public class ExerciseLoggingApp
 {
 
 // Creates file object and sets pointer
