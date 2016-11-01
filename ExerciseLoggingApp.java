@@ -1,4 +1,4 @@
-//My First java workout app
+//My java workout app
 
 package WorkoutApp;
 
