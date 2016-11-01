@@ -1,4 +1,4 @@
-//My first java workout app
+//My java workout app
 package WorkoutApp;
 import java.io.File;
 public class Workout
